@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\MaxCare\obj\Debug\MaxCare.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MaxCare\obj\Debug\MaxCare.csproj.CoreCompileInputs.cache
